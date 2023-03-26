@@ -1,8 +1,5 @@
-# Machine Learning 
+# Machine Learning Book Prediction Model
 
-Repository for public hosting of my Machine Learning Projects
-
-
-## Subheader
-
-1 - ML Book Prediction Model.
+- Dataset used "books.csv".
+- A notebook named 'MLProject.ipynb' the code project with comments for each step for better understanding and results analysis.
+- A requirement file for the libraries to install "Requirements.txt"
