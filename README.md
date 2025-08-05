@@ -1,5 +1,5 @@
 # Machine Learning Book Prediction Model
 
-- Dataset used "books.csv".
-- A notebook named 'MLProject.ipynb' the code project with comments for each step for better understanding and results analysis.
-- A requirement file for the libraries to install "Requirements.txt"
+"books.csv" - Dataset used.
+'MLProject.ipynb' - jupyter notebook contains the code project with comments for each step for better understanding and results analysis.
+"Requirements.txt" - Text file listing the required libraries for an EDA Analysis
